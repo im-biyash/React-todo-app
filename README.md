@@ -1,4 +1,5 @@
 # React + Vite
+I have simply created a minor project of to do list app where we can add and delte our tasks
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
